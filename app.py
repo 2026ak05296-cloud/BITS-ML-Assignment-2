@@ -1,10 +1,3 @@
-"""BITS Pilani M.Tech AIML — Assignment 2: pretrained classifier evaluation.
-
-Run with: streamlit run app.py
-Requires model_config.json and the five trained .joblib files in model/.
-The test CSV is evaluated only; no training happens inside this application.
-"""
-
 from io import BytesIO
 import json
 from pathlib import Path
